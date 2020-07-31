@@ -17,7 +17,7 @@ According to a **‘NitiAayog’** report on water management index last year, I
 
 India is among the world’s most water-stressed countries. Yet,India remains one of the largest water users per unit of GDP.This suggests that the way in which India manages its scarce water resources accounts for much of its water woes. Government capacities are lacking as far as improving water management is concerned, while policies and incentives often favor inefficient and unproductive use of water. It’s high time we all have to be conscious for our most valuable resource of Earth.
 
-![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/problem-scenario.jpg?raw=true)
+![](https://github.com/jeevanlife2020/Jeevan/blob/master/problem-scenario.jpg?v=4&s=200)
 
 ## Solutions:
 
@@ -38,7 +38,7 @@ For Users, **JEEVAN** is an extremely easy-to-use, user-friendly platform where 
 
 **JEEVAN** platform uses node MCU as a smart hardware device which is integrated with the Wifi and will be embedded with the Digital watermeter that will read the data reading of the meter and will send it to the IBM cloud using the MQTT protocol. **JEEVAN** as a platform is completely based on IBM cloud using 4 IBM services
 
-![](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Architecture.png?v=4&s=200)
+![](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Architecture.png?v=4&s=300)
 
 ## IBM Cloud Services:
 
