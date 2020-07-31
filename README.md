@@ -51,7 +51,7 @@ IBM features used by **JEEVAN** platform –
 ```
 ## JEEVAN Platform Roadmap:
 
-![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Roadmap.png?raw=true| width=100)
+![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Roadmap.png | width=100)
 
 ## JEEVAN Platform Future Plans:
 ````
