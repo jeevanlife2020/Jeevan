@@ -1,11 +1,12 @@
 ﻿# JEEVAN Platform Overview
 
 ## Table of Contents:
-1. [Problem Statement]()
-2. Solutions
-3. Architecture
-4. IBM Cloud
-5. Road map
+1. [Problem Statement](## Problem Statement)
+2. [Solutions]()
+3. [Architecture]()
+4. [IBM Cloud]()
+5. [Road map]()
+6. [Future Plans]()
 
 
 ## Problem Statement:
@@ -16,7 +17,7 @@ According to a **‘NitiAayog’** report on water management index last year, I
 
 India is among the world’s most water-stressed countries. Yet,India remains one of the largest water users per unit of GDP.This suggests that the way in which India manages its scarce water resources accounts for much of its water woes. Government capacities are lacking as far as improving water management is concerned, while policies and incentives often favor inefficient and unproductive use of water. It’s high time we all have to be conscious for our most valuable resource of Earth.
 
-![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/problem scenario.jpg?raw=true)
+![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/problem-scenario.jpg?raw=true)
 
 ## Solutions:
 
