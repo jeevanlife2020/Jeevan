@@ -1,7 +1,7 @@
 ﻿# JEEVAN Platform Overview
 
 ## Table of Contents:
-1. [Problem Statement](## Problem Statement)
+1. [Problem Statement]()
 2. [Solutions]()
 3. [Architecture]()
 4. [IBM Cloud]()
@@ -38,7 +38,7 @@ For Users, **JEEVAN** is an extremely easy-to-use, user-friendly platform where 
 
 **JEEVAN** platform uses node MCU as a smart hardware device which is integrated with the Wifi and will be embedded with the Digital watermeter that will read the data reading of the meter and will send it to the IBM cloud using the MQTT protocol. **JEEVAN** as a platform is completely based on IBM cloud using 4 IBM services
 
-![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Architecture.png?raw=true)
+![](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Architecture.png?v=4&s=200)
 
 ## IBM Cloud Services:
 
