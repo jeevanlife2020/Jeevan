@@ -43,15 +43,12 @@ JEEVAN platform uses node MCU as a smart hardware device which is integrated wit
 
 JEEVAN Platform uses IBM cloud. It uses IBM cloud/Watson for it's core functionalities.
 IBM features used by JEEVAN platform –
-
-* IBM Cloud foundry
-
-* IBM Cloud functions (Node-Red)
-
-* IBM Watson Notebook (ARIMA Model)
-
-* IBM CloudantDB
-
+```
+ IBM Cloud foundry
+ IBM Cloud functions (Node-Red)
+ IBM Watson Notebook (ARIMA Model)
+ IBM CloudantDB
+```
 ## JEEVAN Platform Roadmap:
 
 ![alt text](https://github.com/jeevanlife2020/Jeevan/blob/master/Jeevan-Roadmap.png?raw=true)
